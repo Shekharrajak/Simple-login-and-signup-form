@@ -5,6 +5,7 @@ if(!isset($_SESSION["sess_user"])){
 } else {
 ?>
 
+
 <!doctype html>
 <html>
 <head>
@@ -19,6 +20,7 @@ if(!isset($_SESSION["sess_user"])){
 </p>
 </body>
 </html>
+
 <?php
 }
 ?>
